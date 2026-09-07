@@ -1,0 +1,9 @@
+﻿命令行到桌面执行路径:
+cd /d "%USERPROFILE%\Desktop"
+
+自己写的Python程序创建文件副部和追加内容命令:
+ReadFileOffice.exe "C:\Users\nsecsoft\Desktop\测试文件" 1 -c "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈可乐雪碧可乐雪碧可乐雪碧可乐雪碧可乐雪碧可乐雪碧"
+
+项目进度项目进度
+自己写的Python程序创建office文件:
+CreateNumFile.exe 3 2MB
